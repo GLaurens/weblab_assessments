@@ -1,6 +1,12 @@
+/*Page Body*/
 body { background-color: lightblue; margin: 10px auto 10px; padding; 0;}
 #wrapper { position: relative; max-width: 600px; margin: 0 auto; background-color: ivory; padding: 20px; height: auto; border: 2px solid lightgrey ;border-radius: 10px; box-shadow: 3px 3px 5px grey; }
 
+/*Page Sections*/
+#title {margin-bottom: 20px; border: 1px solid #eeeec6; border-radius: 5px; padding-left: 20px; padding-bottom: 20px; text-align: center;}
+#content {margin-bottom: 20px}
+#ChapterIndex {margin: 20px 0; padding: 20px 5px; border: 1px solid #eeeec6; border-radius: 5px;}
+footer {height: 60px; border: #e2e2ba; border-radius : 5px;}
 
 p {font-family: 'Rokkitt', serif; line-height: 150%;font-size: 16px;}
 .listStyle {font-family: 'Rokkitt', serif; line-height: 130%;font-size: 20px; list-style-type: none;}
@@ -10,4 +16,4 @@ p {font-family: 'Rokkitt', serif; line-height: 150%;font-size: 16px;}
 h1 {font-family: 'Niconne', cursive;font-size: 40px;}
 h5 {font-family: 'Rokkitt', serif;font-size: 20px;font-weight: bold;}
 a { text-decoration: none; color: darkorange; }
-:link:hover { color: goldenrod; }
+:link:hover { color: #f66103; }
