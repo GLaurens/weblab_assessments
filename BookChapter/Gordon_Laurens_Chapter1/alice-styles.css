@@ -1,0 +1,11 @@
+body { background-color: lightblue; margin-top: 0px; margin-bottom: 0px;height: 100%;}
+#wrapper { max-width: 600px; margin: 0 auto; background-color: ivory; padding: 20px; height: auto }
+p {font-family: 'Rokkitt', serif; line-height: 130%;font-size: 16px}
+.listStyle {font-family: 'Rokkitt', serif; line-height: 130%;font-size: 20px; list-style-type: none;}
+.chapter-title { font-size: 20px; font-weight: 600; font-family: 'Rokkitt', serif;}
+.center { text-align: center }
+.bold{font-weight: 600; padding-right: 10px; color:saddlebrown; }
+h1 {font-family: 'Niconne', cursive;font-size: 40px;}
+h5 {font-family: 'Niconne', cursive;font-size: 25px;}
+a { text-decoration: none; color: darkorange; }
+
