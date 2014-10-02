@@ -1,0 +1,5 @@
+.bold { font-weight: bold; font-size: 12px}
+.italic {font-style: italic; font-family: sans-serif}
+.color {color:#999; margin: 1em}
+.border {border-bottom: 1px solid lightgrey;}
+h1 { text-align: center; border-bottom: 2px groove white; font-family: arial   }
