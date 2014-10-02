@@ -1,5 +1,6 @@
-body { background-color: lightblue; margin-top: 0px; margin-bottom: 0px;height: 100%;}
-#wrapper { max-width: 600px; margin: 0 auto; background-color: ivory; padding: 20px; height: auto }
+body { background-color: lightblue; margin: 10px auto 10px; padding; 0; height: 100%;
+    }
+#wrapper { max-width: 600px; margin: 0 auto; background-color: ivory; padding: 20px; min-height: 100%;border: 3px solid lightgrey ;border-radius: 10px; box-shadow: 3px 3px 5px grey; }
 p {font-family: 'Rokkitt', serif; line-height: 130%;font-size: 16px}
 .listStyle {font-family: 'Rokkitt', serif; line-height: 130%;font-size: 20px; list-style-type: none;}
 .chapter-title { font-size: 20px; font-weight: 600; font-family: 'Rokkitt', serif;}
