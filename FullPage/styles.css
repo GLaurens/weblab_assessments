@@ -1,0 +1,28 @@
+body{background-color:darkgrey; margin:0; }
+#wrapper{background-color:white; width: 1180px; height: auto; margin: 0 auto; background-image:url(img/header_background.jpg);  background-repeat: no-repeat; }
+
+/*Header*/
+#header{ width: 980px; height: 624px; margin: 0 auto; position: relative; padding-top: 70px; padding-right: 100px; padding-left: 100px; }
+#logo {float: left;}
+#menu {float:right; text-align: center; height: 60px; padding-top: 30px}
+#menuItem {font-family: 'Cabin', sans-serif; font-size: 18px; font-weight: 400; display: inline-block; padding: 0 20px; color: white; }
+#headText {padding-top: 200px; padding-left: 50px; padding-right: 50px; }
+.slogan1{font-family: 'Cabin', sans-serif; font-size: 30px; font-weight: 600; color: white;}
+.slogan2{font-family: 'Cabin', sans-serif; font-size: 18px; font-weight: 500; color: white; padding-top: 30px}
+
+/*Content Body*/
+#bodyContent { margin: 0 100px 30px 100px;}
+#topBar { padding: 20px 0 20px 20px; background-color: #25aa99; border-radius: 10px ; font-family: 'Cabin', sans-serif; font-weight: 500; font-size: 18px; color: white;  }
+#mainContent { margin-top: 50px; text-align: left; font-family: 'Cabin', sans-serif; }
+.contentText { font-size: 18px; font-weight: 400; line-height: 160%;}
+
+#features {width: 100%; height: auto; margin-top: 60px}
+#featureBlock {float: left; width: 230px; height: auto; margin-right: 20px; display: inline-block; }
+#featureBlock2 {float: left; width: 230px; height: auto; float: right;}
+
+
+/*class*/
+.clearfix {clear: both;}
+
+
+
