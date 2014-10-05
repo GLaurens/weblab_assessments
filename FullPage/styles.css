@@ -7,18 +7,31 @@ body{background-color:darkgrey; margin:0; }
 #menu {float:right; text-align: center; height: 60px; padding-top: 30px}
 #menuItem {font-family: 'Cabin', sans-serif; font-size: 18px; font-weight: 400; display: inline-block; padding: 0 20px; color: white; }
 #headText {padding-top: 200px; padding-left: 50px; padding-right: 50px; }
-.slogan1{font-family: 'Cabin', sans-serif; font-size: 30px; font-weight: 600; color: white;}
-.slogan2{font-family: 'Cabin', sans-serif; font-size: 18px; font-weight: 500; color: white; padding-top: 30px}
+.slogan1{font-family: 'Cabin', sans-serif; font-size: 35px; font-weight: 600; color: white; margin-bottom: 0}
+.slogan2{font-family: 'Cabin', sans-serif; font-size: 20px; font-weight: 500; color: white; }
 
 /*Content Body*/
-#bodyContent { margin: 0 100px 30px 100px;}
+#bodyContent { margin: 0 115px 30px 115px;}
 #topBar { padding: 20px 0 20px 20px; background-color: #25aa99; border-radius: 10px ; font-family: 'Cabin', sans-serif; font-weight: 500; font-size: 18px; color: white;  }
 #mainContent { margin-top: 50px; text-align: left; font-family: 'Cabin', sans-serif; }
 .contentText { font-size: 18px; font-weight: 400; line-height: 160%;}
 
-#features {width: 100%; height: auto; margin-top: 60px}
-#featureBlock {float: left; width: 230px; height: auto; margin-right: 20px; display: inline-block; }
-#featureBlock2 {float: left; width: 230px; height: auto; float: right;}
+/*Feature Blocks*/
+#features {width: 100%; height: auto; margin: 60px 0; font-family: 'Cabin', sans-serif;}
+#featureBlock {float: left; width: 230px; height: auto; margin-right: 10px; display: inline-block; }
+#featureBlock2 {float: right; width: 230px; height: auto; }
+#featureText {text-align: left; color: #4d4d4d;}
+.author {color:#25aa99; font-size: 16px; font-style: italic; font-weight: 500; line-height: 100%;}
+.traffic {color: #8c8c8c; font-size: 12px; font-weight: 500; line-height: 100%; }
+
+/*Graph Block*/
+
+
+/*Footer*/
+
+/*Search Block*/
+#search{ width: 100%; Height: 20px; background-color:#25aa99; color: white; font-size: 13px; font-weight: 500;  height: 30px;
+    padding: 40px 0;  }
 
 
 /*class*/
