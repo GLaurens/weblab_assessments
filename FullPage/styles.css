@@ -30,8 +30,8 @@ body{background-color:darkgrey; margin:0; }
 /*Footer*/
 
 /*Search Block*/
-#search{ width: 100%; Height: 20px; background-color:#25aa99; color: white; font-size: 13px; font-weight: 500;  height: 30px;
-    padding: 40px 0;  }
+#search{ width: 100%; Height: 20px; background-color:#25aa99; color: white; font-family: 'Cabin', sans-serif; font-size: 13px; font-weight: 500;  height: 30px;
+    padding: 40px 0;}
 
 
 /*class*/
